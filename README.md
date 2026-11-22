@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aeman-abid-92a29b3a8/)
 [![Portfolio](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github)](https://github.com/aemanabid877-max?tab=repositories)
 
-🎓 **BBIT Student at University of Engineering and Technology (UET), Lahore** (2025–2029)  
+🎓 **BBIT Student at University of Engineering and Technology (UET), Lahore** (Spring 2026–2030)  
 💼 **Focus Areas:** Business & Systems Analysis • Full-Stack Web Development • Process Optimization  
 📍 **Location:** Lahore, Punjab, Pakistan  
 
