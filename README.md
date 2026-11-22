@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Aeman Abid 👋
 
-<!--
-**aemanabid877-max/aemanabid877-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aeman-abid-92a29b3a8/)
+[![Portfolio](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github)](https://github.com/aemanabid877-max?tab=repositories)
 
-Here are some ideas to get you started:
+🎓 **BBIT Student at University of Engineering and Technology (UET), Lahore** (2025–2029)  
+💼 **Focus Areas:** Business & Systems Analysis • Full-Stack Web Development • Process Optimization  
+📍 **Location:** Lahore, Punjab, Pakistan  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Project: [StockFlow POS Tracker](https://github.com/aemanabid877-max/stockflow-pos)
+An automated retail Inventory Management & Point-of-Sale (POS) web app featuring:
+- **Live POS Billing:** Dynamic cart calculation, discount/tax computation, and printable thermal invoices.
+- **Inventory Tracking:** Real-time margin math, stock threshold warnings, and 1-click replenishment.
+- **Tech Stack:** HTML5, Tailwind CSS, Vanilla JavaScript (`localStorage`), Python REST API models.
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Languages & Frameworks:** Python, JavaScript (ES6+), HTML5, Tailwind CSS, CSS3
+- **Business & Systems:** Systems Analysis, Inventory Tracking, Process Optimization, Technical Communication
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📬 Connect With Me
+- **LinkedIn:** [aeman-abid-92a29b3a8](https://www.linkedin.com/in/aeman-abid-92a29b3a8/)
+- **GitHub:** [@aemanabid877-max](https://github.com/aemanabid877-max)
